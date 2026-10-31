@@ -1,0 +1,9 @@
+# Build outputs
+bin/
+obj/
+
+# IDE settings
+.vs/
+.vscode/
+*.user
+*.suo
